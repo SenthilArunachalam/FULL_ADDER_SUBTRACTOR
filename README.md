@@ -1,4 +1,7 @@
 # FULL_ADDER_SUBTRACTOR
+### NAME:SENTHIL ARUNACHALAM .P
+### REG NO:24900904
+### DATE:07-11-2024
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -37,19 +40,42 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+### FULL ADDER:![392022409-4f221821-70bf-42e5-a2fc-654c0e2dd2d1](https://github.com/user-attachments/assets/fbbb1fcf-4888-4f51-8eee-e1cb9ec5bceb)
+
+
+### FULL SUBRACTOR:![392022551-ff1bf36f-7f03-4d61-ba9c-d1fe80c26f1e](https://github.com/user-attachments/assets/22ca93e7-68c6-401f-a215-b89f6dea8d48)
 
 **Procedure**
 
-Write the detailed procedure here
+step-1 Go to quartus software.
+
+step-2 Set new environment.
+
+step-3 Type the code to implement FULL ADDER SUBTRACTOR using verilog and validating their functionality using their functional tables.
+
+step-4 Run the program.
+
+step-5 Give inputs in the waveform table .
+
+step-6 Run the program.
 
 **Program:**
+### FULL ADDER:![program](https://github.com/user-attachments/assets/d84e82cd-a59b-4f96-87e8-473fb66322bc)
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+### FULL SUBRACTOR:![program for full subractor](https://github.com/user-attachments/assets/57ea15f8-0ca4-4d51-921a-1fde98bfd6da)
 
 **RTL Schematic**
+### FULL ADDER:![gate for full subractor](https://github.com/user-attachments/assets/454136e0-bb47-4b7a-88c2-e9efada3bc6e)
+
+
+### FULL SUBRACTOR:![gate for full subractor](https://github.com/user-attachments/assets/7a848afa-17b8-4a69-8578-8dd0dcbba215)
 
 **Output Timing Waveform**
+### FULL ADDER:![wave adder](https://github.com/user-attachments/assets/3bcd2dd8-a0d9-4acc-bfbd-bb1fad5d6640)
+
+
+### FULL SUBRACTOR:![wave form for full subractor](https://github.com/user-attachments/assets/f2851f12-e9df-4420-a302-350f1d86c639)
+
 
 **Result:**
 
