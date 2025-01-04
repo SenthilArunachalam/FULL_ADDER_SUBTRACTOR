@@ -1,9 +1,7 @@
-# FULL_ADDER_SUBTRACTOR
+
 ### NAME:SENTHIL ARUNACHALAM .P
 ### REG NO:24900904
-### DATE:07-11-2024
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+### EXP NO 4:Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
 
