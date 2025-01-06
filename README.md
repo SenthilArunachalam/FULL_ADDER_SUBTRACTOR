@@ -38,7 +38,8 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-### FULL ADDER:![timing diagram 4 add](https://github.com/user-attachments/assets/e5d1a330-3ae4-4b67-867e-da1e76d11d29)
+### FULL ADDER:![392022409-4f221821-70bf-42e5-a2fc-654c0e2dd2d1](https://github.com/user-attachments/assets/ee7884c3-aaf0-4804-a2f6-3c2305c0d690)
+
 
 
 
@@ -64,13 +65,15 @@ step-6 Run the program.
 ### FULL SUBRACTOR:![program for full subractor](https://github.com/user-attachments/assets/57ea15f8-0ca4-4d51-921a-1fde98bfd6da)
 
 **RTL Schematic**
-### FULL ADDER:![gate for full subractor](https://github.com/user-attachments/assets/454136e0-bb47-4b7a-88c2-e9efada3bc6e)
+### FULL ADDER:![394196174-2335a954-28a1-4074-94e0-4c0731fbe4da](https://github.com/user-attachments/assets/a9607bb2-4775-486f-9752-088d9b399bdf)
+
 
 
 ### FULL SUBRACTOR:![gate for full subractor](https://github.com/user-attachments/assets/7a848afa-17b8-4a69-8578-8dd0dcbba215)
 
 **Output Timing Waveform**
-### FULL ADDER:![wave adder](https://github.com/user-attachments/assets/3bcd2dd8-a0d9-4acc-bfbd-bb1fad5d6640)
+### FULL ADDER:![timing diagram 4 add](https://github.com/user-attachments/assets/f8e4c03d-fc61-424e-a11c-5f40c59fe9ac)
+
 
 
 ### FULL SUBRACTOR:![wave form for full subractor](https://github.com/user-attachments/assets/f2851f12-e9df-4420-a302-350f1d86c639)
