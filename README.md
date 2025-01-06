@@ -1,7 +1,7 @@
 
 ### NAME:SENTHIL ARUNACHALAM .P
 ### REG NO:24900904
-### EXP NO 4:Implementation-of-Full-Adder-and-Full-subtractor-circuit
+### EXP NO 4:Implementation of Full Adder and Full subtractor circuit
 
 **AIM:**
 
